@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<HBox fx:id="hBox" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <GridPane fx:id="grid" alignment="center" hgap="10" prefHeight="544.0" prefWidth="781.0" vgap="10">
+          <columnConstraints>
+              <ColumnConstraints hgrow="SOMETIMES" maxWidth="440.5714634486607" minWidth="10.0" prefWidth="410.2856968470982" />
+              <ColumnConstraints hgrow="SOMETIMES" maxWidth="189.28570556640625" minWidth="10.0" prefWidth="97.14287458147322" />
+          </columnConstraints>
+          <rowConstraints>
+            <RowConstraints maxHeight="127.57144274030412" minHeight="0.0" prefHeight="14.714284624372208" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="127.57144274030412" minHeight="0.0" prefHeight="22.00000435965402" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="127.57144274030412" minHeight="0.0" prefHeight="27.285723005022327" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="127.57144274030412" minHeight="0.0" prefHeight="23.857145036969868" vgrow="SOMETIMES" />
+              <RowConstraints maxHeight="127.57144274030412" minHeight="0.0" prefHeight="15.857147216796875" vgrow="SOMETIMES" />
+              <RowConstraints maxHeight="317.85714285714283" minHeight="0.0" prefHeight="22.285720825195284" vgrow="SOMETIMES" />
+              <RowConstraints maxHeight="359.57141603742326" minHeight="0.0" prefHeight="15.999967302594882" vgrow="SOMETIMES" />
+              <RowConstraints maxHeight="359.57141603742326" minHeight="10.0" prefHeight="25.714248657226562" vgrow="SOMETIMES" />
+              <RowConstraints maxHeight="359.57141603742326" minHeight="10.0" prefHeight="25.714285714285722" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="359.57141603742326" minHeight="10.0" prefHeight="24.571432931082597" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="359.57141603742326" minHeight="10.0" prefHeight="159.4285670689174" vgrow="SOMETIMES" />
+          </rowConstraints>
+          <children>
+              <TextField fx:id="text_Field_corpus_stop_word_path" prefHeight="25.0" prefWidth="149.0" GridPane.rowIndex="5" />
+              <Label prefHeight="17.0" prefWidth="214.0" text="corpus and stop-word directory path" GridPane.rowIndex="4" />
+              <Button fx:id="button_Browse_Corpus_Stop_Word" mnemonicParsing="false" prefHeight="25.0" prefWidth="134.0" text="browse" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+              <Label prefHeight="17.0" prefWidth="226.0" text="dirctory and posting directory path" GridPane.rowIndex="6" />
+              <TextField fx:id="text_Field_Dictionary_Posting_Path" GridPane.rowIndex="7" />
+              <Button fx:id="button_Browse_Dictionary_Posting" mnemonicParsing="false" prefHeight="25.0" prefWidth="146.0" text="browse" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+              <CheckBox fx:id="checkBox_stemmer" mnemonicParsing="false" prefHeight="17.0" prefWidth="107.0" text="use stemming" GridPane.rowIndex="8" />
+              <Button fx:id="button_Load_Dictionary" mnemonicParsing="false" prefHeight="25.0" prefWidth="129.0" text="load to memory" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+              <Button fx:id="button_Clear_Index" mnemonicParsing="false" prefHeight="25.0" prefWidth="126.0" text="clear index" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+              <Button fx:id="button_Show_Dictionary" mnemonicParsing="false" text="show dictioary" GridPane.rowIndex="9" />
+      
+              <Label prefHeight="17.0" prefWidth="219.0" text="IR Project Part B" GridPane.columnIndex="1" />
+              <VBox prefWidth="129.0" GridPane.columnIndex="1" GridPane.rowIndex="10">
+                  <children>
+                      <Button fx:id="button_Start" mnemonicParsing="false" prefHeight="25.0" prefWidth="131.0" text="start" />
+                  <Button fx:id="button_save_results" mnemonicParsing="false" prefHeight="25.0" prefWidth="130.0" text="save results" />
+                  <TextField fx:id="text_area_save_results" />
+                  <Button fx:id="browse_results_button" mnemonicParsing="false" text="browse" />
+                  </children>
+              </VBox>
+            <TextField fx:id="text_field_query" text="" GridPane.rowIndex="1" />
+            <Label text="enter a quary:" />
+            <Label text="load a query file:" GridPane.rowIndex="2" />
+            <Button fx:id="browse_button_query_file" mnemonicParsing="false" prefHeight="25.0" prefWidth="133.0" text="browse" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="text_field_query_file" GridPane.rowIndex="3" />
+            <Button fx:id="button_run" mnemonicParsing="false" prefHeight="25.0" prefWidth="175.0" text="RUN!" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <children>
+                  <CheckBox fx:id="check_box_entity_search" mnemonicParsing="false" prefHeight="17.0" prefWidth="118.0" text="entity search" />
+                  <CheckBox fx:id="check_box_semantic_search" mnemonicParsing="false" prefHeight="17.0" prefWidth="122.0" text="semantic search" />
+               </children>
+            </VBox>
+          </children>
+      </GridPane>
+   </children>
+</HBox>

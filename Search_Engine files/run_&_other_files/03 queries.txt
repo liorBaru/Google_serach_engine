@@ -1,0 +1,290 @@
+<top>
+
+<num> Number: 351 
+<title> Falkland petroleum exploration 
+
+<desc> Description: 
+What information is available on petroleum exploration in 
+the South Atlantic near the Falkland Islands?
+
+<narr> Narrative: 
+Any document discussing petroleum exploration in the
+South Atlantic near the Falkland Islands is considered
+relevant.  Documents discussing petroleum exploration in 
+continental South America are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: 352 
+<title> British Chunnel impact  
+
+<desc> Description: 
+What impact has the Chunnel had on the British economy and/or 
+the life style of the British?
+
+<narr> Narrative: 
+Documents discussing the following issues are relevant:
+
+ - projected and actual impact on the life styles of the British 
+ - Long term changes to economic policy and relations
+ - major changes to other transportation systems linked with 
+   the Continent
+
+Documents discussing the following issues are not relevant:
+
+ - expense and construction schedule 
+ - routine marketing ploys by other channel crossers (i.e.,
+   schedule changes, price drops, etc.) 
+ 
+</top>
+
+
+<top>
+
+<num> Number: 358
+<title> blood-alcohol fatalities
+
+<desc> Description: 
+What role does blood-alcohol level play in 
+automobile accident fatalities?
+
+<narr> Narrative: 
+Relevant documents must contain information
+on automobile accidents in which there was a 
+fatality and the blood-alcohol level of the
+driver of the vehicle must be identified.
+ 
+</top>
+
+
+<top>
+
+<num> Number: 359
+<title> mutual fund predictors 
+
+<desc> Description: 
+Are there reliable and consistent predictors of
+mutual fund performance?
+
+<narr> Narrative: 
+A document must contain at least one factor 
+such as: rankings, risks, yields, or costs,
+and fund performance to be relevant.  
+Documents that discuss mutual fund rankings 
+are considered relevant.  
+
+</top>
+
+
+<top>
+
+<num> Number: 362
+<title> human smuggling 
+
+<desc> Description: 
+Identify incidents of human smuggling.
+
+<narr> Narrative: 
+A relevant document shows an incident of humans 
+(at least ten) being smuggled.  The smugglers 
+would have to realize a monetary gain for their 
+actions, while the people being smuggled may or 
+may not be willing participants.
+
+</top>
+
+
+<top>
+
+<num> Number: 367
+<title> piracy 
+
+<desc> Description: 
+What modern instances have there been of old fashioned
+piracy, the boarding or taking control of boats? 
+ 
+<narr> Narrative: 
+Documents discussing piracy on any body of water are
+relevant.  Documents discussing the legal taking of 
+ships or their contents by a national authority are 
+non-relevant.  Clashes between fishing vessels over
+fishing are not relevant, unless one vessel is 
+boarded.  
+
+</top>
+
+
+<top>
+
+<num> Number: 373
+<title> encryption equipment export 
+
+<desc> Description: 
+Identify documents that discuss the concerns of
+the United States regarding the export of 
+encryption equipment.
+
+<narr> Narrative: 
+Documents that merely mention the name of a company
+or group that produces encryption equipment but does
+not mention the exportation and/or commercial exploitation
+of the encryption equipment are not relevant.  Documents 
+which refer to governmental access into the encryption 
+systems for the purposes of counter-intelligence or 
+anti-crime activities are relevant. 
+
+</top>
+
+
+<top>
+
+<num> Number: 374
+<title> Nobel prize winners 
+
+<desc> Description: 
+Identify and provide background information on Nobel
+prize winners.
+
+<narr> Narrative: 
+At a minimum, relevant documents must contain the 
+following information:  year of Nobel prize award, 
+field of study, and recipients name.  When the 
+document announces what is obviously a current award,
+no year is required.
+
+</top>
+
+
+<top>
+
+<num> Number: 377
+<title> cigar smoking 
+
+<desc> Description: 
+Identify documents that discuss the renewed 
+popularity of cigar smoking.
+
+<narr> Narrative: 
+A relevant document will discuss the extent of
+the resurgence of cigar smoking or the social
+and economic issues attendant to it.  Documents
+that discuss "Cigar Nights", "Cigar Rooms" and
+cigar production are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: 380
+<title> obesity medical treatment 
+
+<desc> Description: 
+Identify documents that discuss medical treatment
+of obesity. 
+
+<narr> Narrative: 
+A relevant document should identify prescribed
+legal medications or treatments used to combat
+obesity and the positive or negative affects
+resulting from the applications.
+
+</top>
+
+
+<top>
+
+<num> Number: 384
+<title> space station moon 
+
+<desc> Description: 
+Identify documents that discuss the building of
+a space station with the intent of colonizing the
+moon.
+ 
+<narr> Narrative: 
+A relevant document will discuss the purpose of a 
+space station, initiatives towards colonizing the 
+moon, impediments which thus far have thwarted such a 
+project, plans currently underway or in the planning
+stages for such a venture; cost, countries prepared
+to make a commitment of men, resources, facilities
+and money to accomplish such a feat.
+
+</top>
+
+
+<top>
+
+<num> Number: 385
+<title> hybrid fuel cars 
+
+<desc> Description: 
+Identify documents that discuss the current status of
+hybrid automobile engines, (i.e., cars fueled by something
+other than gasoline only).
+ 
+<narr> Narrative: 
+A relevant document may include research on non-gasoline 
+powered engines or prototypes that may be fueled by natural 
+gas, methanol, alcohol; cost to the consumer; health benefits 
+derived; and shortcomings in horsepower and passenger comfort.
+
+</top>
+
+
+<top>
+
+<num> Number: 387
+<title> radioactive waste 
+
+<desc> Description: 
+Identify documents that discuss effective and safe ways to 
+permanently handle long-lived radioactive wastes.
+ 
+<narr> Narrative: 
+Documents that discuss incineration, cementation, bitumenization, 
+vitrification, and in underground nuclear explosion are relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: 388
+<title> organic soil enhancement 
+
+<desc> Description: 
+Identify documents that discuss the use of organic
+fertilizers (composted sludge, ash, vegetable waste, 
+microorganisms, etc.) as soil enhancers. 
+  
+<narr> Narrative: 
+The focus of the topic is on soil enhancement.  
+Documents that discuss other uses of organic material
+are not relevant, nor are documents that concentrate
+solely on chemical fertilizers.
+
+</top>
+
+
+<top>
+
+<num> Number: 390
+<title> orphan drugs 
+
+<desc> Description: 
+Find documents that discuss issues associated with so-called 
+"orphan drugs", that is, drugs that treat diseases affecting 
+relatively few people.
+ 
+<narr> Narrative: 
+A relevant document will discuss how the Orphan Drug Act 
+is working on behalf of those who suffer from orphan 
+diseases and conditions, or how this matter is handled in 
+other countries.
+ 
+</top>
