@@ -9,13 +9,13 @@ The dataset contained 500,000 text files. The primary goal was, given a query to
   <h3> Part one: </h3>
   <ui>
     <li>ReadFile: Know how to navigate between the different folders and read the content files that are contained in them.</li>
-    <li>Parse: Parse the tweets according to the rules of the class.</li>
-    <li>Term: Stemm the tweets using Porter's stemming/</li>
+    <li>Parse: Parse the file according to the rules of the class.</li>
+    <li>Term: Stemm the file using Porter's stemming/</li>
     <li>indexer , Create dictionary and store the posting file on the disk.</li>
   </ui>
   <h3> Part two: </h3>
   <ui>
     <li>Searcher: will get query and return the top ranked files</li>
-    <li>Ranker: will rank all the search relevant files</li>
+    <li>Ranker: will rank all the search relevant files (with "BM25").</li>
   </ui>
 </ui>
